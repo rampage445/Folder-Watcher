@@ -1,6 +1,9 @@
 ## Assumptions
  A directory "MyFiles" were given with different files(.txt,.jpeg,etc.) 
 
+## Output
+The output folder contains the explanation and shows how it works.
+
 ## Execution
 
 1. `main.py`  
