@@ -93,4 +93,3 @@ def delete_file_from_drive(file_id):
     drive_service = build('drive', 'v3', credentials=creds)
     drive_service.files().delete(fileId=file_id).execute()
 
-#create_nested_folders("2025-10-27/bmp","1nFVvmqBXwesaipG-zNV-OOAtBAEisr_2")
