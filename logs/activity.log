@@ -1,0 +1,13 @@
+2025-10-27 03:29 PM - INFO - Starting File Sync Watcher...
+2025-10-27 03:29 PM - INFO - Starting watcher on E:\Github\Automation\MyFiles
+2025-10-27 03:29 PM - INFO - Starting folder_watcher scan loop...
+2025-10-27 03:29 PM - INFO - Skipping recently modified file: E:\Github\Automation\MyFiles\animal.bmp
+2025-10-27 03:29 PM - INFO - Skipping recently modified file: E:\Github\Automation\MyFiles\animal.bmp
+2025-10-27 03:29 PM - INFO - Skipping recently modified file: E:\Github\Automation\MyFiles\animal.bmp
+2025-10-27 03:29 PM - INFO - New file detected: E:\Github\Automation\MyFiles\animal.bmp
+2025-10-27 03:30 PM - INFO - Skipping recently modified file: E:\Github\Automation\MyFiles\important.txt
+2025-10-27 03:30 PM - INFO - Skipping recently modified file: E:\Github\Automation\MyFiles\important.txt
+2025-10-27 03:30 PM - INFO - Skipping recently modified file: E:\Github\Automation\MyFiles\important.txt
+2025-10-27 03:30 PM - INFO - New file detected: E:\Github\Automation\MyFiles\important.txt
+2025-10-27 03:31 PM - INFO - File deleted locally: E:\Github\Automation\MyFiles\2025-10-27\bmp\animal.bmp
+2025-10-27 03:35 PM - INFO - Watcher stopped manually.
